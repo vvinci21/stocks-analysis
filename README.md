@@ -54,7 +54,11 @@ Overall 2017 was a great year for the given stocks as a whole, with only one tic
 
 **Advantages:**
 - Eliminate excess code and lines and creating a more streamline code to execute. This in turn should take a shorter amount of time for excel to run.
-- Providing detailed notes and explination of code allows for and easier editing process in the future whether it be by the orginal owner or someone else.
+- Providing detailed notes and explination of code allows for and easier editing process in the future whether it be by the orginal owner or someone else. Below shows sample code with detialed notes to explain what it is we are exactly trying to do.
+
+![Sample_Code](Resources/Sample_Code.png)
+
+
 - Having the detailed notes allows for easy changes and modifications both in the current code and for possibly using in other workbooks. 
 
 **2. How do these pros and cons apply to refactoring the original VBA script?**
