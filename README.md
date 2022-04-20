@@ -40,11 +40,8 @@ Overall 2017 was a great year for the given stocks as a whole, with only one tic
 #### 2018 Run Time
 ![2018 Run Time](Resources/VBA_Challenge_2018.png)
 
-### Deliverable Requirements
+### Summary: 
 
-## SUMMARY: Our Statement:
-
-### Deliverable with detail analysis:
 **1. What are the advantages or disadvantages of refactoring code?**
 
 **Disadvantages:**
