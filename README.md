@@ -28,7 +28,7 @@ Overall 2017 was a great year for the given stocks as a whole, with only one tic
 
 #### 2017 Stock Performance
 
-![2017 Performance](Resources/2017_Stock_Performance.png)
+
 
 #### 2018 Stock Performance
 
