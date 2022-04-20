@@ -26,6 +26,14 @@ The purpose of this challenge is too:
 
 Overall 2017 was a great year for the given stocks as a whole, with only one ticker TERP showing negative return. The average return of all of the tickers was 67%. 2018 was quite the opposite with only two tickers, ENPH and RUN, have positive returns. Both, ENPH and RUN, were the only tickers to have postive years in 2017 and 2018. 
 
+#### 2017 Stock Performance
+
+![2017 Performance](Resources/2017_Stock_Performance.png)
+
+#### 2018 Stock Performance
+
+![2018 Performance](Resources/2018_Stock_Performance.png)
+
 #### 2017 Run Time
 ![2017 Run Time](Resources/VBA_Challenge_2017.png)
 
