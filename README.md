@@ -3,7 +3,7 @@
 ## OVERVIEW: VBA Stock Analysis Challenge
 
 ### Purpose
-In this challenge, we will edit, or refactor, the Stock Market Dataset with VBA code to loop through all the data one time in order to collect an entire dataser. Then determine whether refactoring code successfully made the VBA script run faster. Finally, we want to make the code more efficient—by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read. 
+In this challenge we are asked to refactor the VBA code within the Stock Market Dataset to loop through all the data one time in order to collect an entire dataset. After we need to determine whether refactoring code successfully made the VBA script run faster. Finally, we want to make the code more efficient—by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read. 
 
 ### Our Challenge Data Background
 Steve loves the workbook you prepared for him. At the click of a button, he can analyze an entire dataset. Now, to do a little more research for his parents, he wants to expand the dataset to include the entire stock market over the last few years. Although your code works well for a dozen stocks, it might not work as well for thousands of stocks. And if it does, it may take a long time to execute.
@@ -17,8 +17,7 @@ The purpose of this challenge is too:
 
 1. Prepare our dataset `VBA_Challenge.vbs` file for the project.
 2. Create our resources folder in **GitHub** to hold the run-time pop-up messages that we’ll screenshot after running refactored analyses for 2017 and 2018.
-3. Create and convert our `XLSM` file from `*.vbs` dataset that you used in this module as `VBA_Challenge.xlsm`.
-4. Add the VBA_Challenge.vbs script to the Microsoft Visual Basic editor.
+3. Add the `VBA_Challenge.vbs` script to the Microsoft Visual Basic editor.
 5. Use the steps **Refactor VBA code and measure performance** to add code where indicated by the numbered comments in the starter code file.
 6. Compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
@@ -40,7 +39,7 @@ Overall 2017 was a great year for the given stocks as a whole, with only one tic
 #### 2018 Run Time
 ![2018 Run Time](Resources/VBA_Challenge_2018.png)
 
-### Summary: 
+## Summary: 
 
 **1. What are the advantages or disadvantages of refactoring code?**
 
