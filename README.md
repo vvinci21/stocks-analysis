@@ -23,7 +23,7 @@ The purpose of this challenge is too:
 
 ### Results 
 
-Overall 2017 was a great year for the given stocks as a whole, with only one ticker TERP showing negative return. The average return of all of the tickers was 67%. 2018 was quite the opposite with only two tickers, ENPH and RUN, have positive returns. Both, ENPH and RUN, were the only tickers to have postive years in 2017 and 2018. 
+Overall 2017 was a great year for the given stocks as a whole, with only one ticker TERP showing negative return. The average return of all of the tickers was 67%. 2018 was quite the opposite with only two tickers, ENPH and RUN, have positive returns. Both, ENPH and RUN, were the only tickers to have postive years in 2017 and 2018. Shonw below are also the script run times for each year. The refactored code was about a tenth of a second faster than the orginal script.
 
 #### 2017 Stock Performance
 
